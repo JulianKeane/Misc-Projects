@@ -6,4 +6,4 @@ Just a collection of various small pieces of code that I have written
 
 Primes.ipynb - algorithm for calculating whether a number a number is prime and a way to find N prime numbers
 
-Circlese.ipynb - Creates circles using matplotlib and numpy!
+Circles.ipynb - Creates circles using matplotlib and numpy!
